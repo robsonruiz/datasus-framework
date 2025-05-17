@@ -1,0 +1,31 @@
+body {
+    margin: 0 5%;
+}
+h1 {
+    text-align: center;
+    margin-top: 5%;
+}
+strong {
+    margin-left: 10px;
+}
+.sex{
+    margin-bottom: 2.5%;
+    padding: 1% 4% 1% 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    float: left;
+    text-indent: 10px;
+}
+.age{
+    margin-bottom: 2.5%;
+    padding: 1% 4% 1% 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    max-width: 22%;
+    margin-left: 17.5%;
+    border-radius: 5px;
+    text-indent: 10px;
+}
+.row{
+    display: hidden;
+    width: 200%;
+}
