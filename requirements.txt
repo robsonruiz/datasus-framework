@@ -1,10 +1,4 @@
-pandas
-xlrd
-openpyxl
-dash
-dash_bootstrap_components
-scipy
-psycopg2
 pyspark
-sqlalchemy
 pysus
+pandas
+dash
